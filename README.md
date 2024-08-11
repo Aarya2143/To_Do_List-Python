@@ -83,6 +83,7 @@ if __name__ == "__main__":
   ![task 3](https://github.com/user-attachments/assets/43747305-a848-4f58-a95e-47612462473f)
 
 - Take exit from to do list:
+  
   ![exit](https://github.com/user-attachments/assets/548cbc5f-f8b4-4ee1-a650-09da6b1cea3f)
 
 
